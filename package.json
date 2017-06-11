@@ -1,0 +1,19 @@
+{
+  "name": "@part-time-pros/rltracker-api",
+  "version": "0.2.0",
+  "description": "RLTracker.pro api call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocket-league-ptp/rltracker-api.git"
+  },
+  "author": "illegal-function",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rocket-league-ptp/rltracker-api/issues"
+  },
+  "homepage": "https://github.com/rocket-league-ptp/rltracker-api#readme"
+}
